@@ -144,7 +144,7 @@ streamlit run app.py
 Add your deployed Streamlit URL here:
 
 ```text
-https://your-dashboard-name.streamlit.app
+https://synent-task4-netflixdashboard-preet-5jfzkgfaka5soxrho2u2pa.streamlit.app/
 ```
 
 ---
