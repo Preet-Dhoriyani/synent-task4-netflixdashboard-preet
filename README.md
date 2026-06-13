@@ -149,16 +149,6 @@ https://synent-task4-netflixdashboard-preet-5jfzkgfaka5soxrho2u2pa.streamlit.app
 
 ---
 
-## 📷 Dashboard Preview
-
-Add a screenshot after deployment:
-
-```markdown
-![Dashboard Preview](dashboard_screenshot.png)
-```
-
----
-
 ## 🎓 Learning Outcomes
 
 Through this project, I learned:
