@@ -109,10 +109,10 @@ The dataset contains information about:
 ```text
 synent-task4-netflixdashboard-preet
 │
-├── app.py
+├── README.md
+├── netflix.py
 ├── netflix_titles.csv
-├── requirements.txt
-└── README.md
+└── requirements.txt
 ```
 
 ---
